@@ -1,2 +1,2 @@
 # BI-Projects
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+https://app.powerbi.com/view?r=eyJrIjoiOWYwOTkwNjMtZTI3OC00NTlhLWE3OTEtZTg4Y2Q5NzBjMDA0IiwidCI6IjcyMDZiN2M1LWNiN2YtNDI3Ni04MGRjLTAzYTE5ZmExN2I4ZSJ9&pageName=ReportSection
